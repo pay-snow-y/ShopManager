@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     // ⚠️ 보안 키 설정: 서버의 .env 파일에 설정한 APP_SECRET_HEADER 값과 정확히 일치해야 합니다.
     // 예: "my-secure-access-key-12345"
-    let authSecretKey = "Dk*k1!kdslA1982#dkjss@#$ddk"
+    let authSecretKey = "ShopManager_Auth_2026_Secure_Token_v1"
     
     // 접속할 URL
     let targetUrlString = "https://shop.play-anything.net/"
