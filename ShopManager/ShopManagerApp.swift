@@ -2,7 +2,7 @@
 //  ShopManagerApp.swift
 //  ShopManager
 //
-//  Created by seyol on 2/15/26.
+//  Created by ShopManager Generator.
 //
 
 import SwiftUI
